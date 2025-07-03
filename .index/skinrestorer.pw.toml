@@ -1,0 +1,16 @@
+filename = 'skinrestorer-2.3.5+1.21-neoforge.jar'
+name = 'Skin Restorer'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3834f7cb16a3457d0a3ffa0cd6bf71359dd72e73'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6679012
+project-id = 443823

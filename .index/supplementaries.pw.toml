@@ -1,0 +1,16 @@
+filename = 'supplementaries-1.21-3.3.3-neoforge.jar'
+name = 'Supplementaries'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '68a0b9c8eea167dabd38565f77b4b80ad94087fa'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6714008
+project-id = 412082

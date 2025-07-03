@@ -1,0 +1,16 @@
+filename = 'Configurable-2.2.3-neoforge-yarn+1.21.1.jar'
+name = 'Configurable'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '15d95cbd6f25ed3237809c5b1057312e965efd62a4fbfb88f086eb272b5afcc1962885a1a44a887819665d27f924ea146c05d54eafcc8aad486804f63b8a4300'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lGffrQ3O/versions/xGCKxdz0/Configurable-2.2.3-neoforge-yarn%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'lGffrQ3O'
+version = 'xGCKxdz0'
